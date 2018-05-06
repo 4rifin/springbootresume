@@ -53,7 +53,7 @@
 						<div class="progress progress-small progress-bar-success">
 						</div>
 							<div class="list-text">
-							I'm Arifin and i have experienced in Java Developer and i have done the project java developer with my team work. My hobby is swimming, soccer football and browsing internet
+							My name is Arifin and i have experienced in Java Developer and i have done the project java developer with my team work. My hobby is swimming, soccer football and browsing internet
 							</div>	
 					</div>
 		</div>
