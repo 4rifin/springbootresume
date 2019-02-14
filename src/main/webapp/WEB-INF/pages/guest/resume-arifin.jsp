@@ -190,20 +190,21 @@
 									<span class="icon-ok">Java</span><br>
 									<span class="icon-ok">JavaScript</span><br>
 									<span class="icon-ok">HTML</span><br>
+									<span class="icon-ok">ZK User Interface Markup Language (ZUML)</span><br>
 									<span class="icon-ok">JavaServer Pages Standard Tag Library (JSTL)</span><br>
-									<span class="icon-ok">Spring framework</span><br>
-									<span class="icon-ok">Struts framework</span><br>
 								</div>
 								<div class="col-md-3">
+									<span class="icon-ok">Spring framework</span><br>
+								   	<span class="icon-ok">Struts framework</span><br>
 								    <span class="icon-ok">RESTful Web Service API</span><br>
 									<span class="icon-ok">Bootstrap</span><br>
 									<span class="icon-ok">Oracle Database</span><br>
 									<span class="icon-ok">PostgreSQL</span><br>
 									<span class="icon-ok">MySQL</span><br>
-									<span class="icon-ok">SQL 2008 r2</span><br>
-									<span class="icon-ok">PHP</span><br>
 								</div>
 								<div class="col-md-3">
+									<span class="icon-ok">SQL 2008 r2</span><br>
+									<span class="icon-ok">PHP</span><br>
 									<span class="icon-ok">Spring Tool Suite</span><br>
 									<span class="icon-ok">Eclipse</span><br>
 									<span class="icon-ok">Netbeans</span><br>
@@ -236,21 +237,21 @@
 							<div class="form-row">
 								<div class="col-md-3">
 									<address class="nm">
-										<a href="http://52.76.117.11:8081/lifestyle-main-msu/login.zul"  target="_blank"><strong>Ultra Voucher For Backend</strong></a><br>
-										<div class="head-subtitle">Sep 2018 <span class="icon-minus"></span> Des 2018</div>
+										<a href="https://zkossmockup.herokuapp.com/"  target="_blank"><strong>Mockup using Zkoss Framework</strong></a><br>
+										<div class="head-subtitle">Jan 2019 <span class="icon-minus"></span> Feb 2019</div>
 										 Develop Web For my application reference<br>
 											using framework<br>
-											<span class="icon-minus"></span>Java Spring ZK MyBatis<br>
-											Data Base<br>
-											<span class="icon-minus"></span> PostgreSql 9.4<br>
+											<span class="icon-minus"></span>Java Maven ZK <br>
 											IDE<br>
 											<span class="icon-minus"></span> Sts (Spring tool suite)<br>
 											Technology<br>
 											<span class="icon-minus"></span> Java 1.7<br>
 											<span class="icon-minus"></span> Maven 3.3.9<br>
 											<span class="icon-minus"></span> ZK User Interface Markup Language (ZUML)<br>
-											<span class="icon-minus"></span> JasperReports 6.5.1<br>
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
+											<br>
+											<br>
+											<br>
 											<br>
 											<br>
 									</address>
@@ -289,6 +290,7 @@
 											<span class="icon-minus"></span> Maven 3.3.9<br>
 											<span class="icon-minus"></span> Bootstrap Template (AdminLTE)<br>
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
+											<br>
 											<br>
 											<br>
 										</address>
@@ -348,6 +350,25 @@
 								</div>
 								<div class="col-md-3">
 									<address class="nm">
+										<a href="http://52.76.117.11:8081/lifestyle-main-msu/login.zul"  target="_blank"><strong>Ultra Voucher For Backend</strong></a><br>
+										<div class="head-subtitle">Sep 2018 <span class="icon-minus"></span> Des 2018</div>
+										 Develop Web For my application reference<br>
+											using framework<br>
+											<span class="icon-minus"></span>Java Spring ZK MyBatis<br>
+											Data Base<br>
+											<span class="icon-minus"></span> PostgreSql 9.4<br>
+											IDE<br>
+											<span class="icon-minus"></span> Sts (Spring tool suite)<br>
+											Technology<br>
+											<span class="icon-minus"></span> Java 1.7<br>
+											<span class="icon-minus"></span> Maven 3.3.9<br>
+											<span class="icon-minus"></span> ZK User Interface Markup Language (ZUML)<br>
+											<span class="icon-minus"></span> JasperReports 6.5.1<br>
+											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
+											<br>
+											<br>
+									</address>
+									<address class="nm">
 										<a href="https://springcrudbootstrapjasper.herokuapp.com/"  target="_blank"><strong>CRUD with Spring bootstrap postgresql and JasperReports</strong></a><br>
 										<div class="head-subtitle">Apr 2018 <span class="icon-minus"></span> Mei 2018</div>
 										 Develop Web For my application reference<br>
@@ -399,7 +420,6 @@
 											<span class="icon-minus"></span> Maven 3.3.9<br>
 											<span class="icon-minus"></span> Bootstrap Template<br>
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
-											<br>
 											<br>
 											<br>
 										</address>
@@ -476,6 +496,7 @@
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
 											<br>
 											<br>
+											<br>
 										</address>
 										<address class="nm">
 										<a href="https://kahatravel.com/login"  target="_blank"><strong>RETAILER KAHA HOTEL</strong></a><br>
@@ -506,6 +527,7 @@
 											<span class="icon-minus"></span>Setup DataBase with sql 2008r2<br>
 											<span class="icon-minus"></span>Setup Server with widows server 2000<br>
 											<span class="icon-minus"></span>Support Program SDMS<br>
+											<br>
 											<br>
 											<br>
 											<br>
@@ -544,7 +566,7 @@
 											<span class="icon-minus"></span> Maven 3.3.9<br>
 											<span class="icon-minus"></span> HTML Template<br>
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
-											<span class="icon-minus"></span><a href="https://documenter.getpostman.com/view/1813611/RWaDXX3x"  target="_blank"><strong>Postman Doc API</strong></a><br>
+											<span class="icon-minus"></span><a href="https://documenter.getpostman.com/view/1813611/RztmqoZT"  target="_blank"><strong>Postman Doc API</strong></a><br>
 											<br>
 											<br>
 											<br>
@@ -568,7 +590,6 @@
 											<br>
 											<br>
 											<br>
-											<br>
 										</address>
 										<address class="nm">
 										<a href="https://www.mentimun.co.id/"  target="_blank"><strong>MENTIMUN MARKETPLACE</strong></a><br>
@@ -588,6 +609,7 @@
 											<span class="icon-minus"></span> Eclipse Version Neon RELEASE<br>
 											<br>
 											<br>
+											<br>
 										</address>
 										<address class="nm">
 										<a href="https://suzukisumberbaru.com/"  target="_blank"><strong>SDMS (Suzuki Dealer Management System) Dealer Yogyakarta</strong></a><br>
@@ -599,6 +621,8 @@
 											<span class="icon-minus"></span>Setup DataBase with sql 2008r2<br>
 											<span class="icon-minus"></span>Setup Server with widows server 2000<br>
 											<span class="icon-minus"></span>Support Program SDMS<br>
+											<br>
+											<br>
 											<br>
 											<br>
 											<br>
