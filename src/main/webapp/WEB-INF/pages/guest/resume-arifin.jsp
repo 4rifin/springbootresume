@@ -91,7 +91,7 @@
 										<a href="https://www.facebook.com/aariffinn" class="widget-icon" target="_blank"><span class="icon-facebook-sign"></span></a>
 										<a href="https://github.com/4rifin" class="widget-icon" target="_blank"><span class="icon-github-sign"></span></a>
 										<a href="https://www.linkedin.com/in/arifin-6a7ab1113/" class="widget-icon" target="_blank"><span class="icon-linkedin-sign"></span></a>
-										<a href="<c:url value="/resources/file/CV_Arifin.pdf"/>" class="widget-icon" target="_blank" download="CV_Arifin.pdf"><span class="icon-download"></span></a>
+										<a href="<c:url value="/resources/file/user.jpg"/>" class="widget-icon" target="_blank" download="CV_Arifin.pdf"><span class="icon-download"></span></a>
 									</div>
 						</div>
 			</div>
