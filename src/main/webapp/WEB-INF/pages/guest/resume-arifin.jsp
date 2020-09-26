@@ -41,7 +41,7 @@
 				<div class="head bg-dot30 np tac">
 					<img src="<c:url value="/resources/img/arifina.png"/>" class="img-thumbnail img-circle">
 				</div>
-				<div class="head bg-dot30 npb">
+					<div class="head bg-dot30 npb">
 						<!-- <div class="pull-right">
                             <ul class="buttons">
                                 <li><a href="/resumeArifin/download"><span class="icon-save"></span></a></li>
@@ -53,7 +53,7 @@
 						<div class="progress progress-small progress-bar-success">
 						</div>
 							<div class="list-text">
-							My name is Arifin and i have experienced in Java Developer and working onsite in Selangor with client AMK Technology Sdn Bhd . My hobby is swimming, soccer football and browsing internet
+							My name is Arifin and i have experienced in Java Developer and currently working on site in Selangor with client AMK Technology Sdn Bhd . My hobby is swimming, soccer football and browsing internet
 							</div>	
 					</div>
 		</div>
@@ -91,6 +91,7 @@
 										<a href="https://www.facebook.com/aariffinn" class="widget-icon" target="_blank"><span class="icon-facebook-sign"></span></a>
 										<a href="https://github.com/4rifin" class="widget-icon" target="_blank"><span class="icon-github-sign"></span></a>
 										<a href="https://www.linkedin.com/in/arifin-6a7ab1113/" class="widget-icon" target="_blank"><span class="icon-linkedin-sign"></span></a>
+										<a href="<c:url value="/resources/file/CV_Arifin.pdf"/>" class="widget-icon" target="_blank" download="CV_Arifin.pdf"><span class="icon-download"></span></a>
 									</div>
 						</div>
 			</div>
@@ -161,7 +162,7 @@
 								<address class="nm">
 									<strong>STMIK M.H Thamrin Jakarta</strong><br>
 									<div class="head-subtitle">
-										S1-Teknik Informatika<br> 2011-2012
+										S1-Teknik Informatika(Bachelor of Computer Engineering)<br> 2011-2012
 									</div>
 									Jl. Pondok Gede Raya No. 23-25 Dukuh Kramat Jati Jakarta Timur
 									DKI Jakarta, RT.1/RW.1, Pinang Ranti, Makasar, Kota Jakarta
@@ -173,7 +174,7 @@
 								<address class="nm">
 									<strong>Politeknik LP3I Bekasi</strong><br>
 									<div class="head-subtitle">
-										D3-Teknik Informatika<br> 2008-2011
+										D3-Teknik Informatika(Diploma of Computer Engineering)<br> 2008-2011
 									</div>
 									Jl. Jendral Sudirman Grand mall Blok A1-2 Kranji,Harapan Mulya,
 									Medan Satria Kota Bekasi, Jawa Barat 17135<br>
@@ -194,33 +195,51 @@
 									<div class="form-row">
 										<div class="col-md-3">
 											<span class="icon-ok">Java</span><br> <span
-												class="icon-ok">JavaScript</span><br> <span
+												class="icon-ok">JavaScript</span><br>
+												<span
+												class="icon-ok">Bootstrap</span><br>
+												<span
+												class="icon-ok">PrimeFaces</span><br> 
+												<span
+												class="icon-ok">XHTML</span><br><span
 												class="icon-ok">HTML</span><br> <span class="icon-ok">ZK
 												User Interface Markup Language (ZUML)</span><br> <span
 												class="icon-ok">JavaServer Pages Standard Tag Library
 												(JSTL)</span><br>
+												
 										</div>
 										<div class="col-md-3">
+										    <span class="icon-ok">JavaServer Faces (Jsf) framework</span><br> 
+											<span class="icon-ok">ZK framework</span><br>
 											<span class="icon-ok">Spring framework</span><br> <span
 												class="icon-ok">Struts framework</span><br> <span
-												class="icon-ok">RESTful Web Service API</span><br> <span
-												class="icon-ok">Bootstrap</span><br> <span
-												class="icon-ok">Oracle Database</span><br> <span
+												class="icon-ok">RESTful Web Service API</span><br> 
+												<span
+												class="icon-ok">Oracle BPM </span><br>
+												<span class="icon-ok">Oracle Database</span><br> <span
 												class="icon-ok">PostgreSQL</span><br> <span
 												class="icon-ok">MySQL</span><br>
 										</div>
 										<div class="col-md-3">
+										<span class="icon-ok">SmarTTY</span><br>
+											<span class="icon-ok">PuTTY</span><br> 
+											<span class="icon-ok">Sql Developer</span><br>
 											<span class="icon-ok">SQL 2008 r2</span><br> <span
 												class="icon-ok">PHP</span><br> <span class="icon-ok">Spring
 												Tool Suite</span><br> <span class="icon-ok">Eclipse</span><br>
 											<span class="icon-ok">Netbeans</span><br> <span
-												class="icon-ok">Android Studio</span><br> <span
-												class="icon-ok">Microsoft Word</span><br>
+												class="icon-ok">Android Studio</span><br> 
 										</div>
 										<div class="col-md-3">
+										<span class="icon-ok">Redmine</span><br> 
+										<span class="icon-ok">Jira</span><br> 
+										<span class="icon-ok">Mantis</span><br> 
+										<span class="icon-ok">Tortoise GIT</span><br> 
 											<span class="icon-ok">Tortoise SVN</span><br> <span
 												class="icon-ok">Mercurial</span><br> <span
 												class="icon-ok">Github</span><br> <span class="icon-ok">CSS</span><br>
+											<span
+												class="icon-ok">Microsoft Word</span><br>
 											<span class="icon-ok">Microsoft Excel</span><br>
 										</div>
 									</div>
