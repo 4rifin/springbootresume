@@ -109,7 +109,7 @@
 								<address class="nm">
 									<strong>IT Consultant (AMK Technology Sdn Bhd)</strong><br>
 									<div class="head-subtitle">
-										Java Developer<br> 2018 - present
+										Java Developer<br> 2019 - present
 									</div>
 									CBD Perdana 2, Jalan, Persiaran Flora, 63000 Cyberjaya,
 									Selangor<br> <br>
