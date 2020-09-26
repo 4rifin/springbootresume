@@ -71,8 +71,8 @@
 										<strong>ARIFIN</strong><br>
 										<div class="head-subtitle">Current Address<br>
 										 </div>
-										 MENTARI COURT, Jalan PJS 8/9,<br>
-										 TAMAN SERI MENTARI,<br>
+										 Mentari Court, Jalan PJS 8/9,<br>
+										 Taman Seri Mentari,<br>
 										 46150 Petaling Jaya, Selangor<br>
 										 Malaysia<br>
 										<span class="icon-phone">: </span>+60172365985<br>
@@ -91,7 +91,7 @@
 										<a href="https://www.facebook.com/aariffinn" class="widget-icon" target="_blank"><span class="icon-facebook-sign"></span></a>
 										<a href="https://github.com/4rifin" class="widget-icon" target="_blank"><span class="icon-github-sign"></span></a>
 										<a href="https://www.linkedin.com/in/arifin-6a7ab1113/" class="widget-icon" target="_blank"><span class="icon-linkedin-sign"></span></a>
-										<a href="<c:url value="/resources/file/user.jpg"/>" class="widget-icon" target="_blank" download="CV_Arifin.pdf"><span class="icon-download"></span></a>
+										<a href="<c:url value="/resources/file/CV_Arifin.pdf"/>" class="widget-icon" target="_blank" download="CV_Arifin.pdf"><span class="icon-download"></span></a>
 									</div>
 						</div>
 			</div>
@@ -227,6 +227,7 @@
 											<span class="icon-ok">SQL 2008 r2</span><br> <span
 												class="icon-ok">PHP</span><br> <span class="icon-ok">Spring
 												Tool Suite</span><br> <span class="icon-ok">Eclipse</span><br>
+												<span class="icon-ok">JDeveloper</span><br>
 											<span class="icon-ok">Netbeans</span><br> <span
 												class="icon-ok">Android Studio</span><br> 
 										</div>
