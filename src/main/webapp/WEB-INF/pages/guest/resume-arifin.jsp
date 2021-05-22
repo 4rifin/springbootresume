@@ -362,8 +362,8 @@
 								</div>
 								<div class="col-md-2">
 									<address class="nm">
-										<a href="https://ptg.perak.gov.my/ptgperak/index.php/penerbitana/informasi-sistem-e-tanah/"  target="_blank"><strong>E-Tanah for Pejabat Pengarah Tanah Dan Galian Negeri Perak</strong></a><br>
-										<div class="head-subtitle">Feb 2019 <span class="icon-minus"></span> Present</div>
+										<a href="https://ptg.perak.gov.my/ptgperak/index.php/penerbitana/informasi-sistem-e-tanah/"  target="_blank" class="text-warning"><strong>E-Tanah for Negeri Wilayah Persekutuan Putrajaya</strong></a><br>
+										<div class="head-subtitle">March 2021 <span class="icon-minus"></span> Present</div>
 										 Develop Web For bussiness company Protech Synergy Sdn Bhd & Puncak Tegap SDN BHD<br>
 											using framework<br>
 											<span class="icon-minus"></span>Java Spring Jsf Primefaces<br>
@@ -378,7 +378,7 @@
 											<span class="icon-minus"></span> Oracle BPM 11g<br>
 											<span class="icon-minus"></span> JasperReports 6.6.0<br>
 											<span class="icon-minus"></span> Word template docx4j<br>
-											<span class="icon-minus"></span> Eclipse 2018<br>
+											<span class="icon-minus"></span> Eclipse 2020<br>
 											<br>
 											<br>
 									</address>
@@ -419,7 +419,6 @@
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
 											<br>
 											<br>
-											<br>
 										</address>
 										<address class="nm">
 										<a href="https://www.autokencana.com"  target="_blank"><strong>BOOKING CAR SERVICE DEALER FORD</strong></a><br>
@@ -440,11 +439,29 @@
 											<br>
 											<br>
 										</address>
+										<address class="nm">
+										<a href="https://suzukisumberbaru.com/"  target="_blank"><strong>SDMS (Suzuki Dealer Management System) Dealer Yogyakarta</strong></a><br>
+										<div class="head-subtitle">Apr 2014 <span class="icon-minus"></span> Mei 2014</div>
+										 Implementasi Web For Dealer PT Sumber Baru Aneka Motor - Suzuki Dealer<br>
+											Job Description<br>
+											<span class="icon-minus"></span>Training User Admin Suzuki Dealer<br>
+											<span class="icon-minus"></span>Instalation Program SDMS<br>
+											<span class="icon-minus"></span>Setup DataBase with sql 2008r2<br>
+											<span class="icon-minus"></span>Setup Server with widows server 2000<br>
+											<span class="icon-minus"></span>Support Program SDMS<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+										</address>
 								</div>
 								<div class="col-md-2">
 								<address class="nm">
-										<a href="https://www.ptgwp.gov.my/"  target="_blank"><strong>E-Tanah for Negeri Wilayah Persekutuan Kuala Lumpur</strong></a><br>
-										<div class="head-subtitle">Feb 2019 <span class="icon-minus"></span> Present</div>
+										<a href="https://www.ptgwp.gov.my/"  target="_blank" class="text-warning"><strong>E-Tanah for Negeri Wilayah Persekutuan Labuan</strong></a><br>
+										<div class="head-subtitle">March 2021 <span class="icon-minus"></span> Present</div>
 										 Develop Web For bussiness company Protech Synergy Sdn Bhd & Puncak Tegap SDN BHD<br>
 											using framework<br>
 											<span class="icon-minus"></span>Java Spring Jsf Primefaces<br>
@@ -459,7 +476,7 @@
 											<span class="icon-minus"></span> Oracle BPM 11g<br>
 											<span class="icon-minus"></span> JasperReports 6.5.1<br>
 											<span class="icon-minus"></span> Word template docx4j<br>
-											<span class="icon-minus"></span> Eclipse 2018<br>
+											<span class="icon-minus"></span> Eclipse 2020<br>
 											<br>
 											<br>
 									</address>
@@ -519,8 +536,45 @@
 											<br>
 											<br>
 										</address>
+										<address class="nm">
+										<a href="https://www.google.com/maps/uv?hl=en&pb=!1s0x2e68e8a1c8639c13%3A0xb1cf7bcefe8515a9!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN834ON5qlKk-84zcPnSZS6drNqT19gdAKW-7fW%3Dw284-h160-k-no!5sSSU%20JARI%20SAKTI%20bandung%20-%20Google%20Search&imagekey=!1e2!2st64IVs3ZN1mvzRzx2iw5Ow&sa=X&ved=0ahUKEwjk98e81e3aAhXJwI8KHYhSAEQQoioIfzAP"  target="_blank"><strong>SDMS (Suzuki Dealer Management System) Dealer Bandung</strong></a><br>
+										<div class="head-subtitle">Jan 2014 <span class="icon-minus"></span> Jan 2014</div>
+										 Implementasi Web For Dealer PT Surya Sahabat Utama (SSU Jari Sakti)- Suzuki Dealer<br>
+											Job Description<br>
+											<span class="icon-minus"></span>Training User Admin Suzuki Dealer<br>
+											<span class="icon-minus"></span>Instalation Program SDMS<br>
+											<span class="icon-minus"></span>Setup DataBase with sql 2008r2<br>
+											<span class="icon-minus"></span>Setup Server with widows server 2000<br>
+											<span class="icon-minus"></span>Support Program SDMS<br>
+											<br>
+											<br>
+											<br>
+											<br>
+											<br>
+										</address>
 								</div>
 								<div class="col-md-2">
+								<address class="nm">
+										<a href="https://ptg.perak.gov.my/etanah-awam/AwamLoginForm.xhtml"  target="_blank" class="text-warning"><strong>E-Tanah for Pejabat Pengarah Tanah Dan Galian Negeri Perak</strong></a><br>
+										<div class="head-subtitle">Feb 2019 <span class="icon-minus"></span> Present</div>
+										 Develop Web For bussiness company Protech Synergy Sdn Bhd & Puncak Tegap SDN BHD<br>
+											using framework<br>
+											<span class="icon-minus"></span>Java Spring Jsf Primefaces<br>
+											Data Base<br>
+											<span class="icon-minus"></span> Oracle<br>
+											IDE<br>
+											<span class="icon-minus"></span> Eclipse<br>
+											Technology<br>
+											<span class="icon-minus"></span> Java 1.8<br>
+											<span class="icon-minus"></span> Maven 3.3.9<br>
+											<span class="icon-minus"></span> JavaServer Faces (JSF)<br>
+											<span class="icon-minus"></span> Oracle BPM 11g<br>
+											<span class="icon-minus"></span> JasperReports 6.6.0<br>
+											<span class="icon-minus"></span> Word template docx4j<br>
+											<span class="icon-minus"></span> Eclipse 2018<br>
+											<br>
+											<br>
+									</address>
 								<address class="nm">
 										<a href="https://zkossmockup.herokuapp.com/"  target="_blank"><strong>Mockup using Zkoss Framework</strong></a><br>
 										<div class="head-subtitle">Jan 2019 <span class="icon-minus"></span> Feb 2019</div>
@@ -534,9 +588,6 @@
 											<span class="icon-minus"></span> Maven 3.3.9<br>
 											<span class="icon-minus"></span> ZK User Interface Markup Language (ZUML)<br>
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
-											<br>
-											<br>
-											<br>
 											<br>
 											<br>
 											<br>
@@ -560,7 +611,6 @@
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
 											<br>
 											<br>
-											<br>
 										</address>
 										
 										<address class="nm">
@@ -581,26 +631,29 @@
 											<br>
 											<br>
 										</address>
-										<address class="nm">
-										<a href="https://suzukisumberbaru.com/"  target="_blank"><strong>SDMS (Suzuki Dealer Management System) Dealer Yogyakarta</strong></a><br>
-										<div class="head-subtitle">Apr 2014 <span class="icon-minus"></span> Mei 2014</div>
-										 Implementasi Web For Dealer PT Sumber Baru Aneka Motor - Suzuki Dealer<br>
-											Job Description<br>
-											<span class="icon-minus"></span>Training User Admin Suzuki Dealer<br>
-											<span class="icon-minus"></span>Instalation Program SDMS<br>
-											<span class="icon-minus"></span>Setup DataBase with sql 2008r2<br>
-											<span class="icon-minus"></span>Setup Server with widows server 2000<br>
-											<span class="icon-minus"></span>Support Program SDMS<br>
-											<br>
-											<br>
-											<br>
-											<br>
-											<br>
-											<br>
-											<br>
-										</address>
 										</div>
 								<div class="col-md-2">
+								<address class="nm">
+										<a href="https://www.ptgwp.gov.my/"  target="_blank" class="text-warning"><strong>E-Tanah for Negeri Wilayah Persekutuan Kuala Lumpur</strong></a><br>
+										<div class="head-subtitle">Feb 2019 <span class="icon-minus"></span> Present</div>
+										 Develop Web For bussiness company Protech Synergy Sdn Bhd & Puncak Tegap SDN BHD<br>
+											using framework<br>
+											<span class="icon-minus"></span>Java Spring Jsf Primefaces<br>
+											Data Base<br>
+											<span class="icon-minus"></span> Oracle<br>
+											IDE<br>
+											<span class="icon-minus"></span> Eclipse<br>
+											Technology<br>
+											<span class="icon-minus"></span> Java 1.8<br>
+											<span class="icon-minus"></span> Maven 3.3.9<br>
+											<span class="icon-minus"></span> JavaServer Faces (JSF)<br>
+											<span class="icon-minus"></span> Oracle BPM 11g<br>
+											<span class="icon-minus"></span> JasperReports 6.5.1<br>
+											<span class="icon-minus"></span> Word template docx4j<br>
+											<span class="icon-minus"></span> Eclipse 2018<br>
+											<br>
+											<br>
+									</address>
 								<address class="nm">
 										<a href="https://ultravoucher.co.id/"  target="_blank"><strong>Ultra Voucher For </strong></a><a href="https://corporate.ultravoucher.co.id/Login/admin"  target="_blank"><strong>Backend<br>
 										<div class="head-subtitle">Sep 2018 <span class="icon-minus"></span> Des 2018</div>
@@ -617,9 +670,6 @@
 											<span class="icon-minus"></span> ZK User Interface Markup Language (ZUML)<br>
 											<span class="icon-minus"></span> JasperReports 6.5.1<br>
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
-											<br>
-											<br>
-											<br>
 											<br>
 									</address>
 										
@@ -640,7 +690,6 @@
 											<span class="icon-minus"></span> Spring Tool Suite Version 3.7.2.RELEASE<br>
 											<br>
 											<br>
-											<br>
 										</address>
 										<address class="nm">
 										<a href="https://www.mentimun.co.id/administrator"  target="_blank"><strong>BACK END MENTIMUN MARKETPLACE</strong></a><br>
@@ -658,22 +707,6 @@
 											<span class="icon-minus"></span> Apache Tomcat 7<br>
 											<span class="icon-minus"></span> HTML Template<br>
 											<span class="icon-minus"></span> Eclipse Version Juno RELEASE<br>
-											<br>
-											<br>
-										</address>
-										<address class="nm">
-										<a href="https://www.google.com/maps/uv?hl=en&pb=!1s0x2e68e8a1c8639c13%3A0xb1cf7bcefe8515a9!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN834ON5qlKk-84zcPnSZS6drNqT19gdAKW-7fW%3Dw284-h160-k-no!5sSSU%20JARI%20SAKTI%20bandung%20-%20Google%20Search&imagekey=!1e2!2st64IVs3ZN1mvzRzx2iw5Ow&sa=X&ved=0ahUKEwjk98e81e3aAhXJwI8KHYhSAEQQoioIfzAP"  target="_blank"><strong>SDMS (Suzuki Dealer Management System) Dealer Bandung</strong></a><br>
-										<div class="head-subtitle">Jan 2014 <span class="icon-minus"></span> Jan 2014</div>
-										 Implementasi Web For Dealer PT Surya Sahabat Utama (SSU Jari Sakti)- Suzuki Dealer<br>
-											Job Description<br>
-											<span class="icon-minus"></span>Training User Admin Suzuki Dealer<br>
-											<span class="icon-minus"></span>Instalation Program SDMS<br>
-											<span class="icon-minus"></span>Setup DataBase with sql 2008r2<br>
-											<span class="icon-minus"></span>Setup Server with widows server 2000<br>
-											<span class="icon-minus"></span>Support Program SDMS<br>
-											<br>
-											<br>
-											<br>
 											<br>
 											<br>
 										</address>

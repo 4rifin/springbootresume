@@ -15,4 +15,9 @@ public class ResumeController {
 	public String ShowResumeArifin(HttpServletRequest httpServletRequest,Model model){
 		return path + "/" +"resume-arifin";
 	}
+	
+	@RequestMapping(value="/cv-arifin", method=RequestMethod.GET)
+	public String ShowCvArifin(HttpServletRequest httpServletRequest,Model model){
+		return path + "/" +"cv-arifin";
+	}
 }
